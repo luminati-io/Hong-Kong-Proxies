@@ -5,7 +5,7 @@
 ## Overview
 Experience seamless scraping with Bright Data's [Hong Kong proxies](https://brightdata.com/locations/hk), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Hong Kong and don't get blocked again.
 
-- **54,500M Hong Kong proxy IPs**
+- **54,500K Hong Kong proxy IPs**
 - **Sticky and rotating sessions**
 - **99.95% success rate**
 - **HTTP(S) & SOCKS5 support**
